@@ -44,11 +44,18 @@ function generateMarkdown(data) {
   ${data.tests}
   
   <a name="contact"></a>
-  ## Questions 
-  Contact for questions and suggestions: 
+ ## Questions 
+
+    // Contact for questions and suggestions:
+    line 1 of code
+    line 2 of code
+    line 3 of code
   ${data.name}
+
   [email](mailto:${data.email})
+
   [GitHub](https://github.com/${data.github})
+
 `;
 }
 
