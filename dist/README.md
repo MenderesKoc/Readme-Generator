@@ -1,14 +1,14 @@
 
-  # generate README.md file
+  # task
   
   ## License
-  ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
-  MIT
-  [Full license information](MIT).
+  ![licenseBadge](https://img.shields.io/badge/License-MIT,GPLv2-blue.svg)
+  MIT,GPLv2
+  [Full license information](MIT,GPLv2).
   
   
   ## Description
-  open source platform app
+  task
   
   ## Table of Contents
   
@@ -21,22 +21,29 @@
   
   <a name="installation"></a>
   ## Installation
-  clone the repo the open the terminal and run npm init and npm install inquirer :)
+  clone and run
   
   <a name="usage"></a>
   ## Usage
-  creat a README.md fast and easy
+  
   
   <a name="credits"></a>
   ## Credits
   
   <a name="tests"></a>
   ## Tests
-  from the terminal run node index.js
+  
   
   <a name="contact"></a>
-  ## Questions 
-  Contact for questions and suggestions: 
+ ## Questions 
+
+    // Contact for questions and suggestions:
+    line 1 of code
+    line 2 of code
+    line 3 of code
   menderes
+
   [email](mailto:mndrs.kc@gmail.com)
+
   [GitHub](https://github.com/mendereskoc)
+
