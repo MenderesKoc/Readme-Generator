@@ -1,14 +1,14 @@
 
-  # task
+  # readme generator
   
   ## License
-  ![licenseBadge](https://img.shields.io/badge/License-MIT,GPLv2-blue.svg)
-  MIT,GPLv2
-  [Full license information](MIT,GPLv2).
+  ![licenseBadge](https://img.shields.io/badge/License--blue.svg)
+  
+  [Full license information]("MIT").
   
   
   ## Description
-  task
+  clone and run
   
   ## Table of Contents
   
@@ -21,7 +21,7 @@
   
   <a name="installation"></a>
   ## Installation
-  clone and run
+  clone and open terminal ,run npm init then install inquirer ,run node index
   
   <a name="usage"></a>
   ## Usage
@@ -35,15 +35,12 @@
   
   
   <a name="contact"></a>
- ## Questions 
+  ## Questions
+  Contact for questions and suggestions:
 
-    // Contact for questions and suggestions:
-    line 1 of code
-    line 2 of code
-    line 3 of code
   menderes
 
   [email](mailto:mndrs.kc@gmail.com)
 
   [GitHub](https://github.com/mendereskoc)
-
+  
