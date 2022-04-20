@@ -59,7 +59,7 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'description',
-            message: 'Provide a short description explaining the what, why, and how of your project. (Required)',
+            message: 'Provide a short description explaining the what, why, and how of your project.',
             validate: projectDescriptionInput => {
                 if (projectDescriptionInput) {
                     return true;
@@ -99,7 +99,7 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'licenseLink',
-            message: 'Enter the link to your project license. (Required)',
+            message: 'Enter the link to your project license.',
             when: ({ confirmLicense }) => {
                 if (confirmLicense) {
                     return true;
@@ -119,7 +119,7 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'installation',
-            message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. (Required)',
+            message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.',
             validate: installationInput => {
                 if (installationInput) {
                     return true;
