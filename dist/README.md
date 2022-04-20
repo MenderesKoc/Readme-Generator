@@ -1,14 +1,14 @@
 
-  # task
+  # zookeepr
   
   ## License
-  ![licenseBadge](https://img.shields.io/badge/License-MIT,GPLv2-blue.svg)
-  MIT,GPLv2
-  [Full license information](MIT,GPLv2).
+  ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
+  MIT
+  [Full license information](zookeepr).
   
   
   ## Description
-  task
+  zookeepr
   
   ## Table of Contents
   
@@ -21,7 +21,7 @@
   
   <a name="installation"></a>
   ## Installation
-  clone and run
+  node index.js
   
   <a name="usage"></a>
   ## Usage
@@ -35,15 +35,12 @@
   
   
   <a name="contact"></a>
- ## Questions 
+  ## Questions
+  Contact for questions and suggestions:
 
-    // Contact for questions and suggestions:
-    line 1 of code
-    line 2 of code
-    line 3 of code
   menderes
 
   [email](mailto:mndrs.kc@gmail.com)
 
   [GitHub](https://github.com/mendereskoc)
-
+  
