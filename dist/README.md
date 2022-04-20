@@ -1,14 +1,14 @@
 
-  # zookeepr
+  # readme generator
   
   ## License
-  ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
-  MIT
-  [Full license information](zookeepr).
+  ![licenseBadge](https://img.shields.io/badge/License--blue.svg)
+  
+  [Full license information]("MIT").
   
   
   ## Description
-  zookeepr
+  clone and run
   
   ## Table of Contents
   
@@ -21,7 +21,7 @@
   
   <a name="installation"></a>
   ## Installation
-  node index.js
+  clone and open terminal ,run npm init then install inquirer ,run node index
   
   <a name="usage"></a>
   ## Usage
